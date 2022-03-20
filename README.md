@@ -62,3 +62,25 @@
   - ![components](./assets/images/components.png)
 
 - and also try todo navbar components.
+
+- after class i try to create a simple homepage.
+
+  - ![Homepage](./assets/images/home_page.png)
+
+## March 14, 2022
+
+### Mockup Protyping
+
+- i try to create a simple web page and try to add prototyping.
+
+- i try to do same as Bath & body works but not exactly same i want to add my owm idea.
+
+- today class we learned importance of naming the layer and grouping the layer.
+
+  -![name and group of the layer](./assets/images/naming.png)
+
+-i just created a simple frame
+![frame](./assets/images/frame.png)
+
+- after that i try to add prototype between the two frames.
+  ![prototyping](./assets/images/prototyping.png)
